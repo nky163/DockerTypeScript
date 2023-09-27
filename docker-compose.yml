@@ -12,7 +12,10 @@ services:
       - NODE_ENV=development
     # ホストマシン:コンテナ => ファイルを共有するための設定
     volumes:
-      - ./:/usr/src/app
+      - ./:/home/node/DockerTypeScript
+    working_dir: /home/node/DockerTypeScript
+    user: node
+    container_name: ts_backend
     # # Dockerコンテナ内で実行されるコマンドを指定する
     # command: sh -c 'cd frontend && yarn start'
     # ホストマシンPort番号:コンテナのPost番号
