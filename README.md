@@ -7,3 +7,6 @@
 - ts-jest
 - https://typescriptbook.jp/tutorials/jest
 - https://qiita.com/okazuki/items/991a068892e946531612
+### gitのhooks
+- husky
+- https://zenn.dev/g_okawara/articles/850d8e6729edfb
