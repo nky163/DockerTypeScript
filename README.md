@@ -1,4 +1,9 @@
 # Docker+TypeScript
 ## TypeScriptの環境構築
-### 参考
+### コンパイル
+- ts-node
 - https://typescript-jp.gitbook.io/deep-dive/nodejs
+### テスト
+- ts-jest
+- https://typescriptbook.jp/tutorials/jest
+- https://qiita.com/okazuki/items/991a068892e946531612
