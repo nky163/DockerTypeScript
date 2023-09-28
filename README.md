@@ -10,3 +10,10 @@
 ### gitのhooks
 - husky
 - https://zenn.dev/g_okawara/articles/850d8e6729edfb
+### フォーマット
+- prettier
+	- とりあえずデフォルト設定
+- https://typescriptbook.jp/tutorials/prettier
+### 静的解析
+- eslint
+- https://zenn.dev/sumiren/articles/97e19ebcce8197

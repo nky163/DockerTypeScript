@@ -1,5 +1,5 @@
 export class Hello {
-  constructor(private name: String) {}
+  constructor(private name: string) {}
 
   getHello() {
     return `Hello ${this.name}`;
